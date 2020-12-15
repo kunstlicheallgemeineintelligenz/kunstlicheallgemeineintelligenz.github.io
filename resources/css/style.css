@@ -1,5 +1,5 @@
 /*
-Orange color: #e67e22
+Orange color: #d47853
 
 */
 
@@ -85,7 +85,7 @@ h3 {
 h2:after {
     display: block;
     height: 2px;
-    background-color: #e67e22;
+    background-color: #d47853;
     content: " ";
     width: 100px;
     margin: 0 auto;
@@ -109,7 +109,7 @@ h2:after {
 .icon-big {
     font-size: 350%;
     display: block;
-    color: #e67e22;
+    color: #d47853;
     margin-bottom: 10px;
 }
 
@@ -117,7 +117,7 @@ h2:after {
     display: inline-block;
     width: 30px;
     text-align: center;
-    color: #e67e22;
+    color: #d47853;
     font-size: 120%;
     margin-right: 10px;
     
@@ -131,10 +131,10 @@ h2:after {
 
 a:link,
 a:visited {
-    color: #e67e22;
+    color: #d47853;
     text-decoration: none;
     padding-bottom: 1px;
-    border-bottom: 1px solid #e67e22;
+    border-bottom: 1px solid #d47853;
     -webkit-transition: border-bottom 0.2s, color 0.2s;
     transition: border-bottom 0.2s, color 0.2s;
 }
@@ -161,33 +161,33 @@ input[type=submit] {
 .btn-full:link,
 .btn-full:visited,
 input[type=submit] {
-    background-color: #e67e22;
-    border: 1px solid #e67e22;
+    background-color: #d47853;
+    border: 1px solid #d47853;
     color: #fff;
     margin-right: 15px;
 }
 
 .btn-ghost:link,
 .btn-ghost:visited {
-    border: 1px solid #e67e22;
-    color: #e67e22;
+    border: 1px solid #d47853;
+    color: #d47853;
 }
 
 .btn:hover,
 .btn:active,
 input[type=submit]:hover,
 input[type=submit]:active {
-    background-color: #cf6d17;
+    background-color: #d47853;
 }
 
 .btn-full:hover,
 .btn-full:active {
-    border: 1px solid #cf6d17;
+    border: 1px solid #d47853;
 }
 
 .btn-ghost:hover,
 .btn-ghost:active {
-    border: 1px solid #cf6d17;
+    border: 1px solid #d47853;
     color: #fff;
 }
 
@@ -256,7 +256,7 @@ header {
 
 .main-nav li a:hover,
 .main-nav li a:active {
-    border-bottom: 2px solid #e67e22;
+    border-bottom: 2px solid #d47853;
 }
 
 
@@ -388,11 +388,11 @@ header {
 }
 
 .works-step div {
-    color: #e67e22;
+    color: #d47853;
     font-size: 150%;
     height: 54px;
     width: 54px;
-    border: 2px solid #e67e22;
+    border: 2px solid #d47853;
     border-radius: 50%;
     display: inline-block;
     text-align: center;
@@ -508,7 +508,7 @@ cite img {
     font-size: 300%;
     margin-bottom: 10px;
     font-weight: 100;
-    color: #e67e22;
+    color: #d47853;
 }
 
 .plan-price span {
